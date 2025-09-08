@@ -1,0 +1,9 @@
+# Terraform files to ignore
+*.tfstate
+*.tfstate.backup
+.terraform/
+.terraform.lock.hcl
+crash.log
+
+# Local IDE files (optional)
+.vscode/
